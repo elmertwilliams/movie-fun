@@ -20,4 +20,6 @@ public class AlbumsController {
         model.put("albums", albumsBean.getAlbums());
         return "albums";
     }
+
+
 }
